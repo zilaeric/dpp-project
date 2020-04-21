@@ -1,6 +1,6 @@
 # Data Collection and Analysis of Movie Data
 
-| **Info**    |                           |
+| <span>      |                           |
 |:----------- |:-------------------------:|
 | Task        | Semestral project         |
 | Course      | Data Processing in Python |
